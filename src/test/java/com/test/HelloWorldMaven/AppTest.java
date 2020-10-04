@@ -7,6 +7,8 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
+
+//Cooment for testing
 public class AppTest 
     extends TestCase
 {
